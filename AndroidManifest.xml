@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="com.snorkip.campustownbar"
+      android:versionCode="8"
+      android:versionName="1.1">
+      
+      <uses-sdk android:minSdkVersion="5" />
+    <uses-sdk android:targetSdkVersion="8" />
+    
+    <application android:icon="@drawable/icon1" android:label="@string/app_name">
+        <activity android:name="com.barspecials.TabWidget"
+                  android:label="@string/app_name"
+                  android:theme="@android:style/Theme.NoTitleBar">
+        <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+        </activity>
+        
+        <activity android:name="com.barspecials.BarSpecials" />
+	    <activity android:name="com.barspecials.DailySpecials" />
+	    <activity android:name="com.barspecials.specials"/>
+	    <activity android:name="com.barspecials.AppTabs"/>
+	    
+	    <!-- The application's publisher ID assigned by AdMob -->
+	<meta-data android:value="a14d2e4f74452e4" android:name="ADMOB_PUBLISHER_ID" />
+        
+		<!-- AdMobActivity definition -->
+	<activity 
+		android:name="com.admob.android.ads.AdMobActivity"
+		android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
+		android:configChanges="orientation|keyboard|keyboardHidden" />
+		<!-- Track Market installs -->          
+	<receiver 
+		android:name="com.admob.android.ads.analytics.InstallReceiver"
+		android:exported="true">
+		<intent-filter>
+   <action android:name="com.android.vending.INSTALL_REFERRER" />
+		</intent-filter>
+		
+</receiver>
+</application>
+    
+		<!-- AdMob SDK requires Internet permission -->
+	<uses-permission 
+		android:name="android.permission.INTERNET" />
+  
+</manifest> 

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TabHost 
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:myapp="http://schemas.android.com/apk/res/com.snorkip.campustownbar"
+	android:id="@android:id/tabhost"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content">
+	<LinearLayout
+	android:orientation="vertical"
+	android:layout_height="fill_parent" 
+	android:layout_width="fill_parent">	
+	<com.admob.android.ads.AdView
+		android:id="@+id/ad"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		myapp:backgroundColor="#000000"
+		myapp:primaryTextColor="#FFFFFF"
+		myapp:secondaryTextColor="#CCCCCC"/>
+	</LinearLayout>	
+	<LinearLayout 
+		android:id="@+id/LinearLayout01"
+		android:orientation="vertical" android:layout_height="fill_parent"
+		android:layout_width="fill_parent"
+		android:paddingTop="50dp">		    
+		<TabWidget 
+			android:id="@android:id/tabs"
+			android:layout_height="wrap_content" 
+			android:layout_width="fill_parent">
+		</TabWidget>
+		<FrameLayout 
+			android:id="@android:id/tabcontent"
+			android:layout_height="fill_parent" 
+			android:layout_width="fill_parent">
+		</FrameLayout>
+	</LinearLayout>
+	
+	
+
+</TabHost>
+
+

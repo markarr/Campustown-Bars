@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, specials!</string>
+    <string name="app_name">Campustown Bars</string>
+    <string-array name="choice">
+    <item>By Day</item> <item>By Bar</item>
+    </string-array>
+    <string-array name="day_array">
+    <item>Monday</item>    <item>Tuesday</item>    <item>Wednesday</item>
+    <item>Thursday</item>    <item>Friday</item>    <item>Saturday</item>
+    <item>Sunday</item> 
+    </string-array>
+    <string-array name="bar_array">
+    <item>Cafe Beaudelaire</item> <item>Capones</item> <item>Chasers</item> <item>Cy\'s Roost</item> <item>El Patron</item> <item>Element</item> <item>Es Tas</item> <item>Headliners</item>
+    <item>Legends</item> <item>Lost and Found</item> <item>Mickey\'s</item> <item>Mother\'s</item>
+    <item>Outlaws</item> <item>Paddy\'s</item> <item>Project 2020</item> <item>Sgt. Peppers \"Remix\"</item>
+ <item>Sips</item> <item>Thumbs</item> <item>Welch Ave Station</item>
+    </string-array>
+    <string-array name="monday_specials">
+<item>Café Beaudelaire</item>
+<item> $6.00 32oz. Pitcher of Smithwick’s
+$3.00 Pints of Guinness (4 – Close) </item>
+<item>Chasers</item>
+<item> $1.00 Wells and Draws 
+Free Pool </item>
+<item>El Pátron</item>
+<item> $4.99 28oz Margarita 
+$1.50 José Cuervo Shots </item>
+<item>Es Tas</item>
+<item> $2.00 Blue Moon
+$4.00 Grain Belt Pitchers </item>
+<item>Legends</item>
+<item>$2.00 Draws 
+ $6.00 pitchers 
+$2.50 UV Vodka 
+ $12.00 Bucket of Beer </item>
+<item>Mickeys</item>
+<item>$2.75 Domestic Draws 
+ $2.75 Captain Coke </item>
+<item>Mother’s Pub</item>
+<item> $10.00 Beer Buckets of PBR, Miller Lite, Coors Light, MGD, MGD 64, and Miller High Life</item>
+<item>Sgt. Peppers \”Remix\”</item>
+<item> 2fers on Wells (until Midnight) </item>
+<item>Thumbs</item>
+<item> $1.00 PBR, Old Style, Hamms, Schlitz, and Milwaukee’s Best</item>
+<item>Welch Ave Station</item> 
+<item> Progressive Pitchers Starting at $4.50 
+$2.50 Domestic Bottles 
+$3.50 Pint of Jack and Coke 
+$3.25 Captain and Coke Pints </item>
+
+    </string-array>
+    <string-array name="tuesday_specials">
+<item>Café Beaudelaire</item>
+<item>$2.00 Pints of Miller Lite</item>
+<item>$2.00 Domestic Bottles</item>
+<item>Capones</item>
+<item>$3.00 Big Wells (22oz)</item>
+<item>$1.00 Wells</item>
+<item>Chasers</item>
+<item> Buy 2 Fishbowls get the 3rd FREE 
+Run the Pool table, and get Kings-Cup for FREE </item>
+<item>Cy’s Roost</item>
+<item>Buck Bottles 
+$2.50 Imports 
+$1.00 Domestic </item>
+<item>Element</item>
+<item>Sin Night – No Cover 
+$1.00 Wells 
+$2.00 Calls 
+$3.00 Top Shelf 
+FREE Nacho Bar
+$4.99 28oz Margarita 
+$1.50 José Cuervo Shots </item>
+<item>Es Tas</item>
+<item>$1.50 Domestic Bottle Beers </item>
+<item>Legends</item>
+<item> 2fers Domestic Beer, Draws, and Wells </item>
+<item>Mickeys</item>
+<item>$1.00 Draws and Wells (until 11pm) 
+ $3.00 You Call it </item>
+<item>Mother’s Pub</item>
+<item> $5.00 Domestic Pitchers
+$7.00 Import Picthers</item>
+<item>Paddy’s</item>
+<item> Karaoke Night and 2fers ALL Night </item>
+<item>Sgt. Peppers \”Remix\”</item>
+<item> $2.00 Wells
+2fers on Shots (until Midnight) </item>
+<item>Thumbs</item>
+<item> Tequila Night </item>
+<item>Welch Ave Station</item>
+<item>$5.00 Domestic Pitcher 
+$2.25 Coronas and Red Strips 
+$2.50 Sappfire and Tonic 
+$3.50 Jag Bombs </item>
+
+    </string-array>
+    <string-array name="wednesday_specials">
+<item>Café Beaudelaire</item>
+<item>$6.00 32oz. Pitchers of fat tire and 1554 (4 – Close) </item>
+<item>Capones</item>
+<item>2fers on Draws/Wells/Shots</item>
+<item>Chasers</item>
+<item> Flip a Coin Night 
+ $1.00 Anything or Full Price </item>
+<item>Cy’s Roost</item>
+<item>Beer Pong Tournament @10
+$2.00 Wells and Draws (until 11pm) 
+$2.50 Domestic Bottles 
+$5.00 Pitchers
+$3.00 bombs till midnight</item>
+<item>Element</item>
+<item>Open Mic Night 
+$1.00 Wells and Draws 
+Fishbowl Club (Buy 2, Get 1 FREE)
+$4.99 28oz Margarita 
+$1.50 José Cuervo Shots </item>
+<item>Es Tas</item>
+<item>$1.00 Bottle Beers (5 – 9pm)
+$2.00 Domestic and Canadian Bottle Beers (9 – Close)
+$2.50 Glass of Chardonnay, Riesling, Merlot, Champagne, and Cab Sauv (9 – Close)
+$2.50 Wells, Imports, and Micros (some might be $3.50)
+$4.50 Grain Belt Pitchers (9 – Close)
+$6.00 Domestic Pitchers (9 – Close)
+$7.50 Bottles of Chardonnay, Riesling, Merlot, Champagne, and Cab Sauv (9 – Close)
+$7.50 Pitchers of Boulevard, 312, Blue Moon, Dos XX Amber, and Sierra Nevada (9 – Close) </item>
+<item>Legends</item>
+<item>$2.00 Off Martinis and Margaritas  
+ $1.00 Off Beer Cocktails and Franc Boise </item>
+<item>Mickeys</item>
+<item>$1.00 Draws and Wells 
+$1.00 Captain Cokes </item>
+<item>Mother’s Pub</item>
+<item> $2.00 Bottles of Bud, Bud Light, Bud Select, Michelob Golden Light</item>
+<item>Outlaws</item>
+<item> Classic Rock and Country Karaoke 
+$1.00 Well Whiskey 
+$1.00 Busch Light Draws 
+$3 Templeton Rye </item>
+<item>Paddy’s</item>
+<item>1 Domestic Draws
+$3 Jager and Soco
+$2 Java, choco chip, pomegranate, and cotton candy </item>
+<item>Project 20/20</item>
+<item>$2.00 Wells 
+$2.00 Domestic Beer 
+$1.00 House Shots</item>
+<item>Sgt. Peppers \”Remix\”</item>
+<item> $5.00 Half Liter Wells 
+$3.00 Half Liter Draws </item>
+<item>Thumbs</item>
+<item> $4.00 Pitchers</item>
+<item>Welch Ave Station</item> 
+<item>$1.25 Pints of Bud, PBR, Miller Lite, Bud Light, Michelob Golden Light, and Coors Light  
+$1.25 Pints or Bottles of Old Maine: Dinky Wheat, Off Kilter, Sod Buster stout, and Long Face Amber 
+$2.00 16oz Draws </item>
+
+    </string-array>
+    <string-array name="thursday_specials">
+<item>Café Beaudelaire</item>
+<item>$6.00 32oz. Pitchers of Smithwick’s 
+$2.50 bottles of Heineken (4 – Close)
+ $5.00 Long Islands (8 – Close)</item>
+<item>Capones</item>
+<item>MUG NIGHT
+$3.00 Draws
+$4.00 Wells</item>
+<item>Chasers</item>
+<item> $0.25 Wells and Draws </item>
+<item>Cy’s Roost</item>
+<item>25 Pitchers for $25 during b-day week 
+$2.50 Soco Lime (8-10pm) </item>
+<item>Element</item>
+<item> Ladies Night – No Cover 
+$3.00 32oz Wells 
+$4.00 32oz Calls 
+$5 Fishbowls 
+2 for 1 Bombs
+$4.99 28oz Margarita 
+$1.50 José Cuervo Shots </item>
+<item>Es Tas</item>
+<item> $2.50 Almost Any Bottle Beer
+$3.50 Captain and Cokes
+$3.00 Blue Moon, 312, Dos XX lager and Amber Pints
+$3.00 Domestic Pints
+$3.00 Wells
+$3.00 32oz Mugs of Domestic Beer
+$5.00 32oz Mugs of Blue Moon, 312, Sam Adams October, Dos XX Amber, and Sierra Nevada
+$5.00 32oz Mugs of Rail Drinks
+$7.50 Bottles of Chardonnay, Riesling, Merlot, Champagne, and Cab Sauv</item>
+<item>Legends</item>
+<item>$3.00 bottled Mexican Beer 
+ $3.00 Rums 
+$4.00 Daiquiris and Pina Coladas </item>
+<item>Mickeys</item>
+<item>$4.00 Fishbowls 
+$3.00 Domestic MUG Draws 
+$5.00 MUG Wells 
+$3.00 FWB Red Bull Vodka (FB Friend with Mickeys Required) </item>
+<item>Mother’s Pub</item>
+<item> Mason Jar Specials $4 Domestic Beer and $3 Well Drinks</item>
+<item>Outlaws</item>
+<item>MUG Night 
+$3.00 Draws 
+$5.00 Wells 
+$3 Tall Boys (upstairs)</item>
+<item>Paddy’s
+<item> MUG Night</item> 
+$3.00 Draws 
+$5.00 Wells </item>
+<item>Project 20/20</item>
+<item>$2.00 Wells and Shots</item>
+<item>Sips</item>
+<item>MUG Night, Combo Special ALL Night 
+$3.00 Draws 
+$5.00 Mixed Drinks 
+GREEK NIGHT
+Greek wristbands for $1 off mugs every thursday and $1 off soco lime shots</item>
+<item>Sgt. Peppers \”Remix\”</item>
+<item> Martini Special </item>
+<item>Thumbs</item>
+<item> $0.75 Gin and Tonics Singles
+$1.50 Gin and Tonic Doubles</item>
+<item>Welch Ave Station</item>
+<item>$2.50 Any Premium Pint or Bottle 
+$2.50 ALL Liquor Mixed Drinks 
+$3.75 Jag Bomb and Yum Yum Bomb 
+$1.75 All Natural Daiquiris </item>
+
+    </string-array>
+    <string-array name="friday_specials">
+    <item>Café Beaudelaire</item>
+<item> $6.00 32oz. Pitchers of Blue Moon and Boulevard
+$5.00 Long Islands (4 – 8pm) </item>
+<item>Capones</item>
+<item>F.A.C $1.00 Draws of Dinky Wheat
+$1.00  Draws
+$3.00 Big Wells (22oz)
+$2.00 Long Islands</item>
+<item>Chasers</item>
+<item> Progressive Fishbowls starting at $4.00 
+$2.00 Wells and Draws (after 9pm) </item>
+<item>Cy’s Roost</item>
+<item>F.A.C $1.00 Domestic Draws (4-8pm) 
+FREE Dominos Pizza (6-8pm) 
+2fers on Draws and Wells (8-10pm) </item>
+<item>Element</item>
+<item> Live Music on The Beer Garden 
+Progressive 60oz Fishbowls Starting at $4.00
+2 for 1 Shots</item>
+<item>Es Tas</item>
+<item> $3.50 Domestic Pints
+$4.00 16oz Wells
+$4.00 Sam Smith Bottle Beers
+$5.00 Captain and Cokes
+$6.00 Pitchers of Grain Belt
+$7.00 Domestic Pitchers</item>
+<item>Legends</item>
+<item>$3.50 Long Islands 
+ $7.50 Big Kahunas 
+$1.00 Off all Craft Beers </item>
+<item>Lost and Found</item>
+<item></item>
+<item>Mickeys</item>
+<item>$4.75 Smirnoff Red Bulls </item>
+<item>Mother’s Pub</item>
+<item> Combo Deals on Beer and Liquor Combinations</item>
+<item>Outlaws</item>
+<item>8-9 3 fers on whiskeys
+9:30-11 2 fers on whiskeys
+11-Close $3 whiskeys</item>
+<item>Paddy’s</item>
+<item>F.A.C get here before 6pm to get your stamp for $1.00 draws (until Midnight) 
+Wheel of Deals (8-11pm) 
+Free Hot Dogs </item>
+<item>Project 20/20</item>
+<item> FAC (ends at 9pm) 
+$1.00 House Shots
+$1.00 Domestic beers 
+$5.00 Domestic Pitchers (ALL NIGHT) </item>
+<item>Sips</item>
+<item>$3 bombs til 11  $1 wells and draws til 10</item>
+<item>Sgt. Peppers \”Remix\”</item>
+<item> F.A.C (3 – 7pm) 
+$4.00 Pitchers 
+2.00 Wells 
+$1.00 Draws</item>
+<item>Thumbs</item>
+<item> $1.75 Draft Beer Pints</item>
+<item>Welch Ave Station </item>
+<item> F.A.C $4.75 Domestic Pitchers 
+$3.00 Long Islands 
+$2.75 Daiquiris </item>
+
+    </string-array>
+    <string-array name="saturday_specials">
+ <item>Café Beaudelaire</item>
+<item> $3.00 Pints of New Castle (4 – Close)</item>
+<item>Capones</item>
+<item>$1.00  Draws
+$3.00 Big Wells (22oz)
+2.00 Long Islands</item>
+<item>Chasers</item>
+<item> 2 for 1 Shots 
+$2.00 Wells 
+$4.00 32oz Wells 
+$6.00 Fishbowls </item>
+<item>Cy’s Roost</item>
+<item>2fers on Wells and Draws (until 10pm) 
+$2.50 Captain and cokes (10-12pm) </item>
+<item>Element</item>
+<item> Special Event Night
+$2.00 Wells 
+$4.00 32oz Wells 
+$6.00 Fishbowls 
+2 for 1 shots</item>
+<item>Es Tas</item>
+<item> $2.00 PBR and Busch Light Bottles
+$2.50 Domestic Bottle Beers
+$3.50 Domestic Pints, Dos XX Amber, and Sierra Nevada
+$4.00 16oz Wells
+$7.00 Pitchers of Domestics, Dos XX Amber, and Sierra Nevada</item>
+<item>Legends</item>
+<item>$2.50 Bloody Mary’s, Screwdrivers, and Mimosas 
+ $1.00 Off Whiskey, Scotch, Burbon 
+$7.50 Big Kahunas </item>
+<item>Lost and Found</item>
+<item></item>
+<item>Mother’s Pub</item>
+<item> Combo Deals on Beer and Liquor Combinations
+$3 Signature Drinks
+$2.00 Miller Lite Bottle Beers During Games and Prize Giveaways</item>
+<item>Outlaws</item>
+<item>8-9 3 fers on whiskeys
+9:30-11 2 fers on whiskeys
+11-Close $3 whiskeys</item>
+<item>Paddy’s</item>
+<item>Employee Pricing </item>
+<item>Project 20/20</item>
+<item>$3.00 Wells 
+ $5.00 Domestic Pitchers 
+$2.00 House Shots </item>
+<item>Sips</item>
+<item>$3 bombs til 11  $1 wells and draws til 10</item>
+<item>Sgt. Peppers \”Remix\”</item>
+<item> $2.00 Wells (until 11pm) 
+$1.00 Draws (until 11pm) </item>
+<item>Thumbs</item>
+<item> $2.25 Domestic Bottle Beers
+$3.00 Import Bottle Beers</item>
+<item>Welch Ave Station</item>
+<item>$2.50 Bloody Mary’s 
+$2.50 Domestic Pints 
+$5.50 Domestic Pitchers (until 8pm) </item>
+
+    </string-array>
+    <string-array name="sunday_specials">
+ <item>Es Tas</item>
+<item> $2.00 Domestic and Canadian Bottle Beers/
+$2.50 Rail Drinks
+$2.50 Micro and Import Beers
+$3.50 Rail Bloody’s
+$3.50 Rail White Russians (Phillips and Kahlua)
+$4.00 Smirnoff Bloody’s
+$5.00 Absolut and Stoli Bloody’s</item>
+<item>Legends</item>
+<item>$1.00 Off Everything 
+ $3.00 Vodka - Clones 
+$12.00 Buckets of Beer 
+$4.50 Car Bombs </item>
+<item>Mother’s Pub</item>
+<item> $2.00 Domestic Bottle Beers and Draws from First NFL Game to the Last NFL Game
+$3 Signature Drinks</item>
+<item>Welch Ave Station </item>
+<item>Happy Hour ALL DAY </item>
+
+    </string-array>
+    
+<string-array name="cafeB">
+<item>Monday</item>
+<item> $6.00 32oz Pitcher of Smithwick’s
+$3.00 Pints of Guinness (4 – Close) </item>
+<item>Tuesday</item>
+<item>$2.00 Pints of Miller Lite 
+$2.00 Domestic Bottles</item>
+<item>Wednesday</item>
+<item>$6.00 32oz Pitchers of fat tire and 1554 (4 – Close) </item>
+<item>Thursday</item>
+<item> $6.00 32oz Pitchers of Smithwick’s 
+$2.50 bottles of Heineken (4 – Close) 
+$5.00 Long Islands (8 – Close) </item>
+<item>Friday</item>
+<item> $6.00 32oz Pitchers of Blue Moon and Boulevard 
+$5.00 Long Islands (4 – 8pm) </item>
+<item>Saturday</item>
+<item> $3.00 Pints of New Castle (4 – Close) </item>
+
+</string-array>
+<string-array name="capones">
+<item> Tuesday</item>
+<item>$3.00 Big Wells (22oz) 
+$1.00 Wells</item>
+<item> Wednesday</item>
+<item> 2fers on Draws, Wells, and Shots </item>
+<item> Thursday</item>
+<item> MUG NIGHT 
+$3.00 Draws 
+$4.00 Wells </item>
+<item> Friday</item>
+<item> F.A.C $1.00 Draws of Dinky Wheat 
+$1.00 Draws 
+$3.00 Big Wells (22oz) 
+$2.00 Long Islands </item>
+<item> Saturday</item>
+<item> $1.00  Draws 
+$3.00 Big Wells (22oz) 
+$2.00 Long Islands </item>
+
+</string-array>
+<string-array name="chasers">
+<item> Monday</item>
+<item> $1.00 Wells and Draws 
+Free Pool </item>
+<item> Tuesday</item>
+<item> Buy 2 Fishbowls get the 3rd FREE 
+Run the Pool table, and get Kings-Cup for FREE </item>
+<item> Wednesday</item>
+<item> Flip a Coin Night 
+ $1.00 Anything or Full Price </item>
+<item> Thursday</item>
+<item> $0.25 Wells and Draws </item>
+<item> Friday</item>
+<item> Progressive Fishbowls starting at $4.00 
+$2.00 Wells and Draws (after 9pm) </item>
+<item> Saturday</item>
+<item> 2 for 1 Shots 
+$2.00 Wells 
+$4.00 32oz Wells 
+$6.00 Fishbowls </item>
+</string-array>
+<string-array name="cysroost">
+<item> Tuesday</item>
+<item>Buck Bottles 
+$2.50 Imports 
+$1.00 Domestic </item>
+<item> Wednesday</item>
+<item> Beer Pong Tournament @10
+$2.00 Wells and Draws (until 11pm) 
+$2.50 Domestic Bottles 
+$5.00 Pitchers
+$3.00 bombs till midnight</item>
+<item> Thursday</item>
+<item>21 Pitchers for $30 during b-day week 
+$2.50 Soco Lime (8-10pm) </item>
+<item> Friday</item>
+<item>F.A.C $1.00 Domestic Draws (4-8pm) 
+FREE Dominos Pizza (6-8pm) 
+2fers on Draws and Wells (8-10pm) </item>
+<item> Saturday</item>
+<item>2fers on Wells and Draws (until 10pm) 
+$2.50 Captain and cokes (10-12pm) </item>
+</string-array>
+<string-array name="elpatron">
+<item> All Specials Mon– Thur 
+$4.99 28oz Margarita 
+$1.50 José Cuervo Shots </item>
+</string-array>
+<string-array name="element">
+<item> Tuesday</item>
+<item>Sin Night – No Cover 
+$1.00 Wells 
+$2.00 Calls 
+$3.00 Top Shelf 
+FREE Nacho Bar </item>
+<item> Wednesday</item>
+<item>Open Mic Night 
+$1.00 Wells and Draws 
+Fishbowl Club (Buy 2, Get 1 FREE) </item>
+<item> Thursday</item>
+<item> Ladies Night – No Cover 
+$3.00 32oz Wells 
+$4.00 32oz Calls 
+$5 Fishbowls 
+2 for 1 Bombs</item>
+<item> Friday</item>
+<item> Live Music on The Beer Garden 
+Progressive 60oz Fishbowls Starting at $4.00
+2 for 1 Shots</item>
+<item> Saturday</item>
+<item> Special Event Night
+$2.00 Wells 
+$4.00 32oz Wells 
+$6.00 Fishbowls 
+2 for 1 shots</item>
+</string-array>
+<string-array name="estas">
+<item> Monday</item>
+<item> (5 – Close) $2.00 Blue Moon and Sierra Nevada Pints
+$4.00 Grain Belt Pitchers </item>
+<item> Tuesday</item>
+<item>(5 – Midnight) $1.50 Domestic Bottle Beers </item>
+<item> Wednesday</item>
+<item>$1.00 Bottle Beers (5 – 9pm)
+$2.00 Domestic and Canadian Bottle Beers (9 – Close)
+$2.50 Glass of Chardonnay, Riesling, Merlot, Champagne, and Cab Sauv (9 – Close)
+$2.50 Wells, Imports, and Micros (some might be $3.50)
+$4.50 Grain Belt Pitchers (9 – Close)
+$6.00 Domestic Pitchers (9 – Close)
+$7.50 Bottles of Chardonnay, Riesling, Merlot, Champagne, and Cab Sauv (9 – Close)
+$7.50 Pitchers of Boulevard, 312, Blue Moon, Dos XX Amber, and Sierra Nevada (9 – Close) </item>
+<item> Thursday</item>
+<item> $2.50 Almost Any Bottle Beer
+$3.50 Captain and Cokes
+$3.00 Blue Moon, 312, Dos XX lager and Amber Pints
+$3.00 Domestic Pints
+$3.00 Wells
+$3.00 32oz Mugs of Domestic Beer
+$5.00 32oz Mugs of Blue Moon, 312, Sam Adams October, Dos XX Amber, and Sierra Nevada
+$5.00 32oz Mugs of Rail Drinks
+$7.50 Bottles of Chardonnay, Riesling, Merlot, Champagne, and Cab Sauv</item>
+<item> Friday</item>
+<item> $3.50 Domestic Pints
+$4.00 16oz Wells
+$4.00 Sam Smith Bottle Beers
+$5.00 Captain and Cokes
+$6.00 Pitchers of Grain Belt
+$7.00 Domestic Pitchers</item>
+<item> Saturday</item>
+<item> (9 – Close) $2.00 PBR and Busch Light Bottles
+$2.50 Domestic Bottle Beers
+$3.50 Domestic Pints, Dos XX Amber, and Sierra Nevada
+$4.00 16oz Wells
+$7.00 Pitchers of Domestics, Dos XX Amber, and Sierra Nevada</item>
+<item> Sunday</item>
+<item> (ALL DAY) $2.00 Domestic and Canadian Bottle Beers
+$2.50 Rail Drinks
+$2.50 Micro and Import Beers
+$3.50 Rail Bloody’s
+$3.50 Rail White Russians (Phillips and Kahlua)
+$4.00 Smirnoff Bloody’s
+$5.00 Absolut and Stoli Bloody’s</item>
+</string-array>
+<string-array name="headliners">
+<item>We dont have specials at this time</item>
+</string-array>
+<string-array name="legends">
+<item>Happy Hour 4 - 6pm 
+ Half Price Domestic Beer, Wells, Calls 
+$2.00 Wells 
+$2.50 Draws </item>
+<item>Monday</item>
+<item>$2.00 Draws 
+ $6.00 pitchers 
+$2.50 UV Vodka 
+ $12.00 Bucket of Beer </item>
+<item>Tuesday</item>
+<item> 2fers Domestic Beer, Draws, and Wells </item>
+<item>Wednesday</item>
+<item>$2.00 Off Martinis and Margaritas  
+ $1.00 Off Beer Cocktails and Franc Boise </item>
+<item>Thursday</item>
+<item>$3.00 bottled Mexican Beer 
+ $3.00 Rums 
+$4.00 Daiquiris and Pina Coladas </item>
+<item>Friday</item>
+<item>$3.50 Long Islands 
+ $7.50 Big Kahunas 
+$1.00 Off all Craft Beers </item>
+<item>Saturday</item>
+<item>$2.50 Bloody Mary’s, Screwdrivers, and Mimosas 
+ $1.00 Off Whiskey, Scotch, Burbon 
+$7.50 Big Kahunas </item>
+<item>Sunday</item>
+<item>$1.00 Off Everything 
+ $3.00 Vodka - Clones 
+$12.00 Buckets of Beer 
+$4.50 Car Bombs </item>
+</string-array>
+<string-array name="lostandfound">
+<item>We do not have specials at this time</item>
+</string-array>
+<string-array name="mickeys">
+<item> Monday</item>
+<item>$2.75 Domestic Draws 
+ $2.75 Captain Coke </item>
+<item> Tuesday</item>
+<item>$1.00 Draws and Wells (until 11pm) 
+ $3.00 You Call it </item>	
+<item> Wednesday</item>
+<item>$1.00 Draws and Wells 
+$1.00 Captain Cokes </item>
+<item> Thursday</item>
+<item>$4.00 Fishbowls 
+$3.00 Domestic MUG Draws 
+$5.00 MUG Wells 
+$3.00 FWB Red Bull Vodka (FB Friend with Mickeys Required) </item>
+<item> Friday</item>
+<item>$4.75 Smirnoff Red Bulls </item>
+</string-array>
+<string-array name="mothers">
+<item> Happy Hour 4-7pm
+2 for 1 on domestic bottles, draws, and wells</item>
+<item> Monday</item>
+<item> $2.25 domestic bottles
+$2 wells</item>
+<item> Tuesday</item>
+<item> </item>
+<item> Wednesday</item>
+<item> $3.50 quarts
+$2 Cans</item>
+<item> Thursday</item>
+<item> Mason Jar Specials $4 Domestic Beer and $3 Well Drinks</item>
+<item> Friday</item>
+<item> $3 Signature Drinks</item>
+<item> Saturday</item>
+<item> $3 Signature Drinks</item>
+</string-array>
+<string-array name="outlaws">
+<item> Wednesday</item>
+<item> Classic Rock and Country Karaoke 
+$1.00 Well Whiskey 
+$1.00 Busch Light Draws 
+$3 Templeton Rye </item>
+<item> Thursday </item>
+<item>MUG Night 
+$3.00 Draws 
+$5.00 Wells
+$2 shots 10-close 
+$3 Tall Boys (upstairs)</item>
+<item> Friday</item>
+<item>8-9 3 fers on whiskeys
+8-11 $1 Dirty Shirley Drinks
+9:30-11 2 fers on whiskeys
+10-Close $2 shots (upstairs)
+11-Close $3 whiskeys</item>
+<item> Saturday</item>
+<item>8-9 3 fers on whiskeys
+8-11 $1 Dirty Shirley Drinks
+9:30-11 2 fers on whiskeys
+10-Close $2 shots (upstairs)
+11-Close $3 whiskeys</item>
+</string-array>
+<string-array name="paddys">
+<item> Tuesday</item>
+<item> Karaoke Night and 2fers ALL Night </item>
+<item> Wednesday</item>
+<item>$1 Domestic Draws
+$3 Jager and Soco
+$2 Java, choco chip, pomegranate, and cotton candy </item>
+<item> Thursday</item>
+<item> MUG Night 
+$3.00 Draws 
+$5.00 Wells </item>
+<item> Friday</item>
+<item>F.A.C get here before 6pm to get your stamp for $1.00 draws (until Midnight) 
+Wheel of Deals (8-11pm) 
+Free Hot Dogs </item>
+<item> Saturday</item>
+<item>Employee Pricing </item>
+</string-array>
+<string-array name="project2020">
+<item> Happy Hour 5 – 7pm 
+$2.00 Pints 
+$2.00 Wells andDraws</item>
+<item> Wednesday</item>
+<item>$2.00 Wells 
+$2.00 Domestic Beer 
+$1.00 House Shots</item>
+<item> Thursday</item>
+<item>$2.00 Wells and Shots</item>
+<item> Friday</item>
+<item> FAC (ends at 9pm) 
+$1.00 House Shots 
+$1.00 Domestic beers 
+$5.00 Domestic Pitchers (ALL NIGHT) </item>
+<item> Saturday</item>
+<item>$3.00 Wells 
+ $5.00 Domestic Pitchers 
+$2.00 House Shots </item>
+</string-array>
+<string-array name="sgtpeppers">
+<item>Monday</item>
+<item> 2fers on Wells (until Midnight) </item>
+<item>Tuesday</item>
+<item> $2.00 Wells
+2fers on Shots (until Midnight) </item>
+<item>Wednesday</item>
+<item> $5.00 Half Liter Wells 
+$3.00 Half Liter Draws </item>
+<item>Thursday</item>
+<item> Martini Special </item>
+<item>Friday</item>
+<item> F.A.C (3 – 7pm) 
+$4.00 Pitchers 
+2.00 Wells
+$1.00 Draws</item>
+<item>Saturday</item>
+<item> $2.00 Wells (until 11pm) 
+$1.00 Draws (until 11pm) </item>
+</string-array>
+<string-array name="sips">
+<item>Thursday</item>
+<item>MUG Night, Combo Special ALL Night 
+$3.00 Draws 
+$5.00 Mixed Drinks 
+GREEK NIGHT
+Greek wristbands for $1 off mugs every thursday and $1 off soco lime shots</item>
+<item>Friday</item>
+<item>$3 bombs til 11  $1 wells and draws til 10</item>
+<item>Saturday</item>
+<item>$3 bombs til 11  $1 wells and draws til 10</item>
+</string-array>
+<string-array name="thumbs">
+<item> Happy Hour 2-8pm/n
+$1.00 Draws/n
+$1.75 Pints/n
+$2.00 Wells</item>
+<item> Monday</item>
+<item> $1.00 PBR, Old Style, Hamms, Schlitz, and Milwaukee’s Best</item>
+<item> Tuesday</item>
+<item> Tequila Night </item>
+<item> Wednesday</item>
+<item> $4.00 Pitchers</item>
+<item> Thursday</item>
+<item> $0.75 Gin and Tonics Singles
+$1.50 Gin and Tonic Doubles</item>
+<item> Friday</item>
+<item> $1.75 Draft Beer Pints</item>
+<item> Saturday</item>
+<item> $2.25 Domestic Bottle Beers
+$3.00 Import Bottle Beers</item>
+</string-array>
+<string-array name="welchavestation">
+<item> Happy Hour 
+ Mon – Thur until 8pm 
+$4.75 Domestic Pitchers 
+$2 Wells </item>
+<item>Monday</item>
+<item> Progressive Pitchers Starting at $4.50 
+$2.50 Domestic Bottles 
+$3.50 Pint of Jack and Coke 
+$3.25 Captain and Coke Pints </item>
+<item>Tuesday</item>
+<item>$5.00 Domestic Pitcher 
+$2.25 Coronas and Red Strips 
+$2.50 Sappfire and Tonic 
+$3.50 Jag Bombs </item>
+<item>Wednesday</item>
+<item>$1.25 Pints of Bud, PBR, Miller Lite, Bud Light, Michelob Golden Light, and Coors Light  
+$1.25 Pints or Bottles of Old Maine: Dinky Wheat, Off Kilter, Sod Buster stout, and Long Face Amber 
+$2.00 16oz Draws </item>
+<item>Thursday</item>
+<item>$2.50 Any Premium Pint or Bottle 
+$2.50 ALL Liquor Mixed Drinks 
+$3.75 Jag Bomb and Yum Yum Bomb 
+$1.75 All Natural Daiquiris </item>
+<item>Friday</item>
+<item> F.A.C $4.75 Domestic Pitchers 
+$3.00 Long Islands 
+$2.75 Daiquiris </item>
+<item>Saturday</item>
+<item>$2.50 Bloody Mary’s 
+$2.50 Domestic Pints 
+$5.50 Domestic Pitchers (until 8pm) </item>
+<item>Sunday</item>
+<item>Happy Hour ALL DAY </item>
+</string-array>
+</resources>
